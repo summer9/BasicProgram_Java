@@ -13,7 +13,7 @@ public class arraysbasicCau2 {
 	            "A penny saved is a penny earned.",
 	            "All things come to those who wait."
 	        };
-
+// use condition if else
 	        if (index >= 0 && index < aphorismPrinter.length) {
 	            return aphorismPrinter[index];
 	        } else {
