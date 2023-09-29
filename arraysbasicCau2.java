@@ -20,5 +20,5 @@ public class arraysbasicCau2 {
 	            return "Invalid index. Please provide a value between 0 and " + (aphorismPrinter.length - 1);
 	        }
 	    }
-	
+	// what if do not use return
 }
